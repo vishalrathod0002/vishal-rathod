@@ -187,7 +187,7 @@ me.say_hi()
 |---|---|
 | 💼 LinkedIn | [Vishal Rathod](https://www.linkedin.com/in/vishal-rathod-5b918b194/) |
 | 📸 Instagram | [Vishal Rathod](https://www.instagram.com/vishalrathod_vira/) |
-| 🐙 GitHub | [vishalrathod0002](https://github.com/vishalrathod0002) |
+| 🐙 GitHub | [vishalrathod0002](https://github.com/vishalrathod0002/vishal-rathod/blob/main/README.md) |
 | 📧 Email | [vishalrathod0002@gmail.com](mailto:vishalrathod0002@gmail.com) |
 
 </div>
