@@ -177,18 +177,6 @@ me.say_hi()
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishalrathod0002/vishalrathod0002/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishalrathod0002/vishalrathod0002/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/vishalrathod0002/vishalrathod0002/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</p>
-
-> ⚙️ **Setup required (one-time, 2 minutes):** create a new public repo named exactly `vishalrathod0002` (matches your username — GitHub treats it as your profile repo), put this README there, then add the included `snake.yml` file to `.github/workflows/snake.yml` in that repo. GitHub Actions will generate the animation automatically and keep it updated every 6 hours.
-
 ---
 
 ### 🔗 Connect With Me
