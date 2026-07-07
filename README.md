@@ -21,7 +21,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/><br/>
+<br/>
+
+<img src="https://img.shields.io/badge/🟢%20Open%20to%20Work-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🕒%20Timezone-IST%20(UTC%2B5:30)-blue?style=for-the-badge" />
 
 <img src="https://komarev.com/ghpvc/?username=vishalrathod0002&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views"/>
 
@@ -55,6 +58,39 @@ me.say_hi()
 - 🗄️ Data lives in **MySQL**, moves through **Pandas/SQLAlchemy** pipelines, and gets served through clean APIs.
 - 🌱 Always sharpening: distributed systems design and applied LLM engineering.
 - 📫 Reach me at **vishalrathod0002@gmail.com**
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+
+### 📈 Skill Proficiency
+
+<table width="100%">
+<tr><td width="180"><b>Python / Advanced Python</b></td><td>████████████████████ 95%</td></tr>
+<tr><td><b>Django / Flask / FastAPI</b></td><td>██████████████████░░ 90%</td></tr>
+<tr><td><b>MySQL / SQLAlchemy</b></td><td>██████████████████░░ 88%</td></tr>
+<tr><td><b>Pandas / ETL Pipelines</b></td><td>███████████████████░ 92%</td></tr>
+<tr><td><b>HTML / CSS / JS / Bootstrap</b></td><td>████████████████░░░░ 80%</td></tr>
+<tr><td><b>LangChain / LangGraph / CrewAI</b></td><td>███████████████░░░░░ 75%</td></tr>
+<tr><td><b>RAG / MCP</b></td><td>██████████████░░░░░░ 70%</td></tr>
+<tr><td><b>n8n / Make.com</b></td><td>████████████████░░░░ 80%</td></tr>
+<tr><td><b>Docker / Kubernetes</b></td><td>█████████████░░░░░░░ 65%</td></tr>
+</table>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+
+### 🔭 What I'm Currently Building
+
+- 🏗️ A **multi-agent AI system** using CrewAI + LangGraph that automates commission reconciliation across payment gateways
+- 🔍 A **RAG-powered internal knowledge assistant** over company docs, using MCP to connect it directly to live data sources
+- ⚡ Automating recurring reporting workflows end-to-end with **n8n**, cutting manual ops work down to a single trigger
+
+### 🧩 How I Can Help
+
+| Need | What I bring |
+|---|---|
+| High-volume data pipelines | Python, Pandas, MySQL — built for millions of rows/day |
+| Backend APIs & services | Django, Flask, FastAPI — from MVP to production |
+| Internal automation | n8n, Make.com — connect your tools without custom infra |
+| AI agents & RAG | LangChain, LangGraph, CrewAI, MCP — grounded, agentic systems |
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
@@ -144,10 +180,14 @@ me.say_hi()
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vishalrathod0002/vishalrathod0002/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishalrathod0002/vishalrathod0002/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishalrathod0002/vishalrathod0002/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/vishalrathod0002/vishalrathod0002/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </p>
 
-> 💡 This animated snake eats your contribution graph. It needs a one-time GitHub Actions setup — ask me and I'll give you the workflow file to add to a repo named exactly `vishalrathod0002` (a special "profile" repo).
+> ⚙️ **Setup required (one-time, 2 minutes):** create a new public repo named exactly `vishalrathod0002` (matches your username — GitHub treats it as your profile repo), put this README there, then add the included `snake.yml` file to `.github/workflows/snake.yml` in that repo. GitHub Actions will generate the animation automatically and keep it updated every 6 hours.
 
 ---
 
@@ -158,7 +198,7 @@ me.say_hi()
 | Platform | Link |
 |---|---|
 | 💼 LinkedIn | [Vishal Rathod](https://www.linkedin.com/in/vishal-rathod-5b918b194/) |
-| 📸 Instagram | [@vishalrathod_vira](https://www.instagram.com/vishalrathod_vira/) |
+| 📸 Instagram | [Vishal Rathod](https://www.instagram.com/vishalrathod_vira/) |
 | 🐙 GitHub | [vishalrathod0002](https://github.com/vishalrathod0002) |
 | 📧 Email | [vishalrathod0002@gmail.com](mailto:vishalrathod0002@gmail.com) |
 
