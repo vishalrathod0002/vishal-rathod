@@ -1,54 +1,173 @@
-<h1 align="center">Hi 👋, I'm Vishal Rathod</h1>
-<div align="center"> <img src="https://github.com/divyasatpute/divyasatpute/blob/main/Aaron%20Loeb.png"> </div>
-<h3 align="center">A passionate DevOps Engineer From India. In my free time i run my own acommunity at https://chat.whatsapp.com/Ds1RjtNaNjP5cHc5jaw3nK</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyasatpute&label=Profile%20views&color=0e75b6&style=flat" alt="divyasatpute" /> </p>
+<h1>Hi, I'm Vishal Rathod 👋</h1>
+<img src="https://github.com/vishalrathod0002/vishal-rathod/blob/main/vishal-rathod-banner.png" alt="Vishal Rathod Banner" width="100%" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyasatpute" alt="divyasatpute" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://divyasatpute.github.io/divyasatpute.io/]
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Python+%26+Data+Engineer;Building+Scalable+Backend+Systems+at+Scale;Django+%7C+Flask+%7C+FastAPI+%7C+MySQL;Exploring+Agentic+AI+%26+RAG+Pipelines;LangChain+%7C+LangGraph+%7C+CrewAI+%7C+MCP" alt="Typing SVG" />
 
-- 📝 I regularly write articles on [https://learnwithdivya.hashnode.dev/](https://learnwithdivya.hashnode.dev/)
+<br/>
 
-- 📫 How to reach me **teacode1122@gmail.com** or **divyasatpute822@gmail.com**
+<a href="https://www.linkedin.com/in/vishal-rathod-5b918b194/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:vishalrathod0002@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/teacode1122/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://github.com/vishalrathod0002">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1j77IK-Lbn6RrMYgOA-RCstRlOiRCvhCH/view?usp=sharing)
+<br/><br/>
 
-<h3 align="left">Connect with me:</h3>
+<img src="https://komarev.com/ghpvc/?username=vishalrathod0002&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views"/>
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+
+
+### 🚀 About Me
+
+```python
+class VishalRathod:
+    def __init__(self):
+        self.role       = "Software Engineer | Python & Data Engineer"
+        self.location   = "India"
+        self.stack      = ["Python", "Django", "Flask", "FastAPI", "MySQL"]
+        self.exploring  = ["LangChain", "LangGraph", "CrewAI", "RAG", "MCP", "n8n", "Make.com"]
+        self.fun_fact   = "I turn messy transaction data into clean, million-row pipelines."
+
+    def say_hi(self):
+        print("Thanks for visiting my profile! Let's build something great together 🚀")
+
+me = VishalRathod()
+me.say_hi()
+```
+
+- 💼 I build **backend systems and data pipelines** for financial payment-processing platforms — ETL pipelines, commission calculation engines, and high-volume transaction routing logic handling millions of rows daily.
+- 🧠 Comfortable across the stack — **Django & Flask** for full apps, **FastAPI** for lightweight high-performance services, and **advanced Python** (async, decorators, generators, design patterns) under the hood.
+- 🎨 I also enjoy the frontend/UI side — building polished dashboards and admin panels with **HTML, CSS, JavaScript, and Bootstrap**, focused on clean, modern design.
+- 🤖 Currently deep in **Agentic AI & Automation** — building multi-agent systems with **LangChain, LangGraph, CrewAI**, wiring up **RAG** pipelines, experimenting with **MCP (Model Context Protocol)**, and automating workflows with **n8n** and **Make.com**.
+- 🗄️ Data lives in **MySQL**, moves through **Pandas/SQLAlchemy** pipelines, and gets served through clean APIs.
+- 🌱 Always sharpening: distributed systems design and applied LLM engineering.
+- 📫 Reach me at **vishalrathod0002@gmail.com**
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+
+### 🛠️ Tech Stack
+
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
+
+**🐍 Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+
+**🖥️ Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+
+**⚙️ Backend Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi" />
+
+</td>
+<td valign="top" width="50%">
+
+**🗄️ Databases & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,python" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white" height="32"/>
+
+**🧰 Tools & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vscode" />
+
+</td>
+</tr>
+</table>
+
+**🤖 AI, Agents, RAG & Automation**
 <p align="left">
-<a href="https://www.linkedin.com/in/divya-satpute?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/divya-satpute/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_divya_satpute_1122?igsh=YmVlMmRtbWJ3cjJz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divya_satpute_1122" height="30" width="40" /></a>
-<a href="https://hashnode.com/@divya1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@divya1122" height="30" width="40" /></a>
-<a href="https://youtube.com/@teacode-1122?si=Zedl9euVntwRjOiR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@teacode-1122" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-4B0082?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/MCP%20(Model%20Context%20Protocol)-6E56CF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
-<h3 align="left">Support:</h3>
-<p><a href="https://buymeacoffee.com/teacode112f"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/teacode112f" /></a></p><br><br>
+### 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyasatpute&show_icons=true&locale=en&layout=compact" alt="divyasatpute" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalrathod0002&show_icons=true&locale=en&theme=radical&count_private=true&hide_border=true" alt="stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalrathod0002&theme=radical&hide_border=true" alt="streak" height="165"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyasatpute&" alt="divyasatpute" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalrathod0002&layout=compact&theme=radical&hide_border=true" alt="top languages"/>
+</p>
 
- # Connect With Me
-  
-Let’s build an amazing DevOps & Cloud community together! 💡👩‍💻
-### **🔗 Connect with Me Everywhere! 🌍**  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalrathod0002&theme=radical&hide_border=true" alt="activity graph" width="95%"/>
+</p>
 
-📌 **LinkedIn:** [Divya Satpute](https://www.linkedin.com/in/divya-satpute-68666a300/)  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vishalrathod0002&theme=radical&row=1&column=6&margin-w=8" alt="trophies"/>
+</p>
 
-📌 **Instagram (DevOps Content):** [@teacode1122](https://www.instagram.com/teacode1122/) 
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
-📌 **GitHub:** https://github.com/divyasatpute/vprofile-awsliftshift-project 
+### 📌 Featured Projects
 
-📌 **Hashnode (Technical Blogs):** https://learnwithdivya.hashnode.dev/
+<p align="center">
+  <a href="https://github.com/vishalrathod0002?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalrathod0002&repo=REPLACE_WITH_REPO_1&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalrathod0002&repo=REPLACE_WITH_REPO_2&theme=radical&hide_border=true" />
+  </a>
+</p>
 
-📌 **TeaCode Website:** https://teacode1122.vercel.app/
+> 💡 Replace `REPLACE_WITH_REPO_1` / `REPLACE_WITH_REPO_2` above with your actual repo names to pin your best work here.
 
-📌 **YouTube (Teacode - DevOps Learning):** https://www.youtube.com/@Teacode-1122
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
-💬 Let’s connect, collaborate, and grow together in the **DevOps & Cloud** world! 🚀✨  
+### 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vishalrathod0002/vishalrathod0002/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%"/>
+</p>
 
+> 💡 This animated snake eats your contribution graph. It needs a one-time GitHub Actions setup — ask me and I'll give you the workflow file to add to a repo named exactly `vishalrathod0002` (a special "profile" repo).
+
+---
+
+### 🔗 Connect With Me
+
+<div align="center">
+
+| Platform | Link |
+|---|---|
+| 💼 LinkedIn | [Vishal Rathod](https://www.linkedin.com/in/vishal-rathod-5b918b194/) |
+| 📸 Instagram | [@vishalrathod_vira](https://www.instagram.com/vishalrathod_vira/) |
+| 🐙 GitHub | [vishalrathod0002](https://github.com/vishalrathod0002) |
+| 📧 Email | [vishalrathod0002@gmail.com](mailto:vishalrathod0002@gmail.com) |
+
+</div>
+
+💬 Let's connect, collaborate, and build something great in the world of **Backend Engineering, Data Systems, and Agentic AI**! 🚀✨
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=120&section=footer" width="100%"/>
+</p>
+
+<p align="center"><i>⭐️ Thanks for stopping by — if we've worked together or you like what you see, a star on my repos means a lot!</i></p>
